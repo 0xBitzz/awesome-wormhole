@@ -234,7 +234,7 @@
 
 ## Contributions
 
-We welcome contributions, please see the [Contribution Guidelines](CONTRIBUTING.md) on how to contribute.
+We welcome contributions, please see the [Contribution Guidelines](https://github.com/0xBitzz/awesome-wormhole/blob/main/CONTRIBUTING.md) on how to contribute.
 Inspired by [Awesome](https://github.com/sindresorhus/awesome), [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum) and [Awesome Algorand](https://github.com/aorumbayev/awesome-algorand).
 
 ## License
