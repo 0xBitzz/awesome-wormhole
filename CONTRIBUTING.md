@@ -4,7 +4,7 @@ Please note that this project adheres to a [Contributor Code of Conduct](https:/
 
 ---
 
-We welcome contributions from the community! If you have improvements or suggestions for [awesome-wormhole](https://github.com/0xBitzz/awesome-wormhole), we encourage you to get involved.
+We welcome contributions from the community! If you have improvements or suggestions for [Awesome Wormhole](https://github.com/0xBitzz/awesome-wormhole), we encourage you to get involved.
 
 Here's a quick guide to contributing:
 
@@ -16,4 +16,4 @@ Here's a quick guide to contributing:
 - Create a pull request from your branch to the main branch of the repository.
 - Clearly explain your changes and reasoning in the pull request description.
 
-We will review your pull request and provide feedback. Thank you for contributing to [awesome-wormhole](https://github.com/0xBitzz/awesome-wormhole)!
+We will review your pull request and provide feedback. Thank you for contributing to [Awesome Wormhole](https://github.com/0xBitzz/awesome-wormhole)!

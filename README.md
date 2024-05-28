@@ -4,7 +4,7 @@
     <a href="https://awesome.re">
       <img alt="awesome list badge" src="https://awesome.re/badge.svg">
     </a>
-    <a href="./CONTRIBUTING.md">
+    <a href="https://github.com/0xBitzz/awesome-wormhole/blob/main/CONTRIBUTING.md">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
     <br/>
@@ -170,7 +170,7 @@
 
 > This section highlights open-source projects and resources created by the Wormhole community. <br/> _**Note:** This list is not exhaustive and is not an endorsement of any specific product or service. We encourage you to do your own research before interacting with any protocol mentioned here._
 
-**To get your project listed here, please submit a [PR](CONTRIBUTING.md).**
+**To get your project listed here, please submit a [PR](https://github.com/0xBitzz/awesome-wormhole/blob/main/CONTRIBUTING.md).**
 
 - [PyWormholescan](https://github.com/0xBitzz/pywormholescan) - A Python wrapper that simplifies interaction with the Wormholescan API, developed by [0xBitzz](https://github.com/0xBitzz/).
 
@@ -237,12 +237,10 @@
 We welcome contributions, please see the [Contribution Guidelines](CONTRIBUTING.md) on how to contribute.
 Inspired by [Awesome](https://github.com/sindresorhus/awesome), [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum) and [Awesome Algorand](https://github.com/aorumbayev/awesome-algorand).
 
----
-
-License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [@0xBitzz](https://github.com/0xBitzz/) has waived all copyright and related or neighboring rights to [awesome-wormhole](https://github.com/0xBitzz/awesome-wormhole/).
+To the extent possible under law, [@0xBitzz](https://github.com/0xBitzz/) has waived all copyright and related or neighboring rights to [Awesome Wormhole](https://github.com/0xBitzz/awesome-wormhole/).
 
 For the full license, see [LICENSE](https://github.com/0xBitzz/awesome-wormhole/blob/main/LICENSE).
