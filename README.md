@@ -43,6 +43,7 @@
   - [Other](#other)
 - [Community Projects](#community-projects)
 - [Supported Blockchains](#supported-blockchains)
+- [News](#news)
 
 ## **Official Resources**
 
@@ -231,6 +232,13 @@
 - [Terra 2.0](https://docs.wormhole.com/wormhole/reference/blockchain-environments/cosmwasm#terra2)
 
 - [XPLA](https://docs.wormhole.com/wormhole/reference/blockchain-environments/cosmwasm#xpla)
+
+## **News**
+
+> This section highlights the latest developments and significant milestones related to Wormhole.
+
+- [Launch of Wormhole Labs](https://www.coinspeaker.com/protocol-wormhole-225m-funding/).
+- [Uniswap Bridge Assessment Report (2024)](https://www.coindesk.com/tech/2023/06/15/unveiling-the-uniswap-foundations-bridge-report-winners-and-losers/).
 
 ## Contributions
 
