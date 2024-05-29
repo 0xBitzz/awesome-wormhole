@@ -90,6 +90,7 @@
 - [Intro to Blockchain Introperability](https://www.youtube.com/watch?v=tN8h003hmKY) by Wormhole co-founders [@Dan Reecer](https://x.com/danreecer_) and [@Robinson Burkey](https://x.com/RobinsonBurkey) (livestream).
 - [Growing Web3 through Blockchain Interoperability](https://www.youtube.com/watch?v=32ttqX5lY1c) by Wormhole co-founders [@Dan Reecer](https://x.com/danreecer_) and [@Robinson Burkey](https://x.com/RobinsonBurkey) at the Hong Kong Web3 Festival 2024, presented by Wormhole x Pyth.
 - [Take your asset multichain with NTT](https://www.youtube.com/watch?v=WnCMDXl0Fnc) by Wormhole Foundation Product Lead [@Nikhil Suri](https://x.com/nsuri) at ETHDenver 2024.
+- [Interoperability's Product-Market Fit | Deep Dive](https://www.youtube.com/watch?v=NgGi4-gykEc) by [@Nikhil Suri](https://x.com/nsuri) on the Bell Curve Podcast.
 
 ### **Tutorials**
 
