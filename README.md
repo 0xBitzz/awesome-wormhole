@@ -240,6 +240,8 @@
 
 - [Launch of Wormhole Labs](https://www.coinspeaker.com/protocol-wormhole-225m-funding/).
 - [Uniswap Bridge Assessment Report (2024)](https://www.coindesk.com/tech/2023/06/15/unveiling-the-uniswap-foundations-bridge-report-winners-and-losers/).
+- [Wormhole ZK Roadmap.](https://wormhole.com/blog/announcing-wormholes-zk-roadmap).
+- [Wormhole Collaborates with AMD to Provide Hardware Acceleration to the Blockchain Ecosystem](https://community.amd.com/t5/adaptive-computing/wormhole-collaborates-with-amd-to-provide-hardware-acceleration/ba-p/666274).
 
 ## Contributions
 
